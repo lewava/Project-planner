@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Visa tuva min sida",
+      "details": "wdadwadwawd",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Tuva säger att den är jätte fin",
+      "details": "WHEEEY",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
